@@ -19,10 +19,10 @@ than you need to install scikit-learn
 pip install -U scikit-learn
 ```
 
-##links
+## links
 
-+[cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
-+[nltk](https://www.nltk.org)
-+[lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis)
-  +[tokenization](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization)
++ [cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
++ [nltk](https://www.nltk.org)
++ [lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis)
+  + [tokenization](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization)
 
